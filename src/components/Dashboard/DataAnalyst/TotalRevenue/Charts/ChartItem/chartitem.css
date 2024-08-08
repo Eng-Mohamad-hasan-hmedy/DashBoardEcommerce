@@ -1,0 +1,141 @@
+.chart_info {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  width: 100%;
+}
+
+.chartLight .light {
+  background-color: #ededed;
+  width: 25px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.chart_info .chartLight {
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+
+.Total_Revenue .charts .chart_info .one {
+  background-color: #ffc029;
+  width: 25px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.oneCh {
+  height: 162px;
+}
+
+.towCh {
+  height: 215px;
+}
+
+.lightTow {
+  height: 179px;
+}
+
+.threeCh {
+  height: 290px;
+}
+
+.lightThree {
+  height: 259px;
+}
+
+.fourCh {
+  height: 195px;
+}
+
+.lightfour {
+  height: 153px;
+}
+
+.fiveCh {
+  height: 343px;
+}
+
+.lightfive {
+  height: 280px;
+}
+
+.lightsix {
+  height: 200px;
+}
+
+.sixCh {
+  height: 257px;
+}
+
+.lightseven {
+  height: 154px;
+}
+
+.sevenCh {
+  height: 195px;
+}
+
+.lighteight {
+  height: 130px;
+}
+
+.eightCh {
+  height: 162px;
+}
+
+.lightnine {
+  height: 178px;
+}
+
+.nineCh {
+  height: 215px;
+}
+
+.lightten {
+  height: 101px;
+}
+
+.tenCh {
+  height: 140px;
+}
+
+.lighteleven {
+  height: 69px;
+}
+
+.elevenCh {
+  height: 101px;
+}
+
+.lighttwelve {
+  height: 46px;
+}
+
+.twelveCh {
+  height: 80px;
+}
+
+.chart_info p {
+  color: #a7a7a7;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+@media screen and (max-width: 750px) {
+  .chart_info {
+    width: 15px;
+
+  }
+
+    .onemedia {
+      width: 8px !important
+      ;
+    }
+
+  .chart_info p {
+    font-size: 12px;
+  }
+}

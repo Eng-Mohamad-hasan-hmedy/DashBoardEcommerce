@@ -1,0 +1,23 @@
+.customers_contente h1 {
+  color: #535353;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.customers_contente p {
+  color: #a7a7a7;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.customersInfo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.customersInfo .customer_icone {
+  color: #a7a7a7;
+  width: 30px;
+  height: 30px;
+}

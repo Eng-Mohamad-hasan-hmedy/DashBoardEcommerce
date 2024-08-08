@@ -1,0 +1,16 @@
+/* start Style Top Side notification Dashaboard */
+
+.dotes_icone {
+  width: 4px;
+  height: 18px;
+  color: #7b7878;
+}
+
+.notification {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 14%;
+}
+
+/* end Style Top Side notification Dashaboard */

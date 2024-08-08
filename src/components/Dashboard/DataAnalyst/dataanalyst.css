@@ -1,0 +1,164 @@
+.data_analyst {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 50px;
+  width: 100%;
+  gap: 10px;
+  justify-content: center;
+  position: sticky;
+}
+
+
+
+.Total_Revenue,
+.Customers {
+  height: 585px;
+  margin-bottom: 20px;
+}
+
+.Top_Products,
+.Stats_Overview {
+  height: 360px;
+}
+
+.Total_Revenue,
+.Top_Products {
+  width: 60%;
+}
+
+.Customers,
+.Stats_Overview {
+  width: 30%;
+}
+
+.Total_Revenue,
+.Customers,
+.Top_Products,
+.Stats_Overview {
+  background-color: #fdfdfd;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.values {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 70px;
+  padding-right: 70px;
+  margin-bottom: 30px;
+}
+
+.Total_visits {
+  width: 18%;
+}
+
+.Total_visits {
+  background-color: #eeeeee;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
+}
+.ttt p {
+  font-size: 13px;
+  font-weight: 500;
+  color: #7b7878;
+}
+
+.ttt span {
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.visit_icon {
+  width: 50px !important;
+  height: 50px !important;
+  color: #ffc029;
+  margin-right: 20px;
+}
+
+.cartIcone {
+  color: #5f27cd !important;
+}
+
+.busn {
+  color: #ff9f43;
+  width: 40px !important;
+  height: 40px !important;
+  margin-right: 5px !important;
+}
+
+.Top_Products h1 {
+  font-size: 24px;
+  color: #535353;
+  font-weight: 500;
+}
+
+.top_product_items {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  gap: 20px;
+}
+.top_product_item {
+  background-color: #eeeeee;
+  width: 100%;
+  height: 60px;
+  border-radius: 10px;
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.product_Detail {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  width: 30%;
+}
+
+.ttpp {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0;
+}
+
+.ttpp p {
+  font-size: 16px;
+  color: #7b7878;
+  font-weight: 600;
+}
+
+.ttpp {
+  font-size: 14px;
+  color: #7b7878;
+  font-weight: 500;
+}
+
+.imgProduct {
+  width: 60px;
+  height: 50px;
+  margin-right: 20px;
+}
+
+.contentProducts {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  padding-right: 20px;
+  text-align: center;
+}
+
+.contentProducts p {
+  font-size: 14px;
+  color: #7b7878;
+}
+
+.contentProducts span {
+  font-weight: bold;
+}
+
+/* 179 */

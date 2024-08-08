@@ -1,0 +1,18 @@
+.Total_Revenue .content_Total_Revenue {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+.Total_Revenue .content_Total_Revenue .info h4 {
+  font-size: 24px;
+  color: #a7a7a7;
+  font-weight: 500;
+}
+
+.Total_Revenue .content_Total_Revenue .info p {
+  color: #000000;
+  font-weight: 500;
+  font-size: 36px;
+}

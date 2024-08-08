@@ -1,0 +1,17 @@
+.Total_Revenue {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 1500px) {
+  .Total_Revenue,
+  .Customers,
+  .Top_Products,
+  .Stats_Overview {
+    width: 80%;
+    margin-bottom: 30px;
+    height: 100%;
+
+  }
+}

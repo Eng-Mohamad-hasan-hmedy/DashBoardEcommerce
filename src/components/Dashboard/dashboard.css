@@ -1,0 +1,23 @@
+.mainDashboard {
+  padding: 50px 40px;
+  background-color: #f3f3f3;
+
+}
+
+.content_dashboard {
+  margin: 0;
+  padding: 0;
+}
+
+.content_dashboard h1 {
+  margin: 0;
+  padding: 0;
+  font-size: 40px;
+  color: #535353;
+}
+
+@media screen and (max-width: 600px) {
+  .mainDashboard {
+    padding: 50px 15px;
+  }
+}
